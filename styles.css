@@ -401,7 +401,7 @@ h1::after {
   .waitlist__controls {
     flex-direction: column;
     border-radius: 18px;
-    width: min(360px, 100%);
+    width: min(420px, 100%);
   }
 
   .waitlist button {
