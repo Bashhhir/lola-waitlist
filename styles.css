@@ -356,8 +356,12 @@ h1::after {
   }
 
   .hero__visual {
-    order: -1;
+    order: 2;
     padding-top: 8px;
+  }
+
+  .hero__copy {
+    order: 1;
   }
 
   .brand {
