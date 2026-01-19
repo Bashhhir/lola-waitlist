@@ -409,7 +409,7 @@ h1::after {
   }
 
   .phone {
-    width: min(300px, 70vw);
+    width: min(360px, 70vw);
     mix-blend-mode: normal;
     opacity: 1;
   }
